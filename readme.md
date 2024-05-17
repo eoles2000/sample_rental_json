@@ -8,7 +8,7 @@ This script processes a JSON file containing rental data, validates it against a
 
 2. **Install Required Libraries**: Install the required Python libraries using pip:
    ```
-   pip install pandas pandera tabulate termcolor
+   pip install -r requirements.txt
    ```
 
 3. **Clone Repository**: Clone this repository to your local machine:
