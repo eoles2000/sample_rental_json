@@ -1,0 +1,174 @@
+[
+    {
+      "type": "START",
+      "id": "ABC001",
+      "timestamp": 1681722000,
+      "comments": "No issues"
+    },
+    {
+      "type": "END",
+      "id": "ABC001",
+      "timestamp": 1681743600,
+      "comments": "Minor scratches"
+    },
+    {
+      "type": "START",
+      "id": "ABC002",
+      "timestamp": 1681725600,
+      "comments": "Brand new"
+    },
+    {
+      "type": "END",
+      "id": "ABC002",
+      "timestamp": 1681747200,
+      "comments": ""
+    },
+    {
+      "type": "START",
+      "id": "ABC003",
+      "timestamp": 1681729200,
+      "comments": "Some dents"
+    },
+    {
+      "type": "END",
+      "id": "ABC003",
+      "timestamp": 1681750800,
+      "comments": "Missing side mirror"
+    },
+    {
+      "type": "START",
+      "id": "ABC004",
+      "timestamp": 1681732800,
+      "comments": "Low fuel"
+    },
+    {
+      "type": "END",
+      "id": "ABC004",
+      "timestamp": 1681754400,
+      "comments": "Flat tire"
+    },
+    {
+      "type": "START",
+      "id": "ABC005",
+      "timestamp": 1681736400,
+      "comments": "Dirty interior"
+    },
+    {
+      "type": "END",
+      "id": "ABC005",
+      "timestamp": 1681758000,
+      "comments": "Broken radio"
+    },
+    {
+      "type": "START",
+      "id": "ABC006",
+      "timestamp": 1681740000,
+      "comments": "Smooth ride"
+    },
+    {
+      "type": "END",
+      "id": "ABC006",
+      "timestamp": 1681761600,
+      "comments": "Engine issue"
+    },
+    {
+      "type": "START",
+      "id": "ABC007",
+      "timestamp": 1681743600,
+      "comments": ""
+    },
+    {
+      "type": "END",
+      "id": "ABC007",
+      "timestamp": 1681765200,
+      "comments": ""
+    },
+    {
+      "type": "START",
+      "id": "ABC008",
+      "timestamp": 1681747200,
+      "comments": "Scratched paint"
+    },
+    {
+      "type": "END",
+      "id": "ABC008",
+      "timestamp": 1681768800,
+      "comments": "Damaged bumper"
+    },
+    {
+      "type": "START",
+      "id": "ABC009",
+      "timestamp": 1681750800,
+      "comments": ""
+    },
+    {
+      "type": "END",
+      "id": "ABC009",
+      "timestamp": 1681772400,
+      "comments": "Broken headlights"
+    },
+    {
+      "type": "START",
+      "id": "ABC010",
+      "timestamp": 1681754400,
+      "comments": "Scratched windshield"
+    },
+    {
+      "type": "END",
+      "id": "ABC010",
+      "timestamp": 1681776000,
+      "comments": "Interior damage"
+    },
+    {
+      "type": "START",
+      "id": "ABC011",
+      "timestamp": 1681758000,
+      "comments": "Stained seats"
+    },
+    {
+      "type": "END",
+      "id": "ABC011",
+      "timestamp": 1681779600,
+      "comments": "Faulty brakes"
+    },
+    {
+      "type": "START",
+      "id": "ABC012",
+      "timestamp": 1681761600,
+      "comments": "New tires"
+    },
+    {
+      "type": "END",
+      "id": "ABC012",
+      "timestamp": 1681783200,
+      "comments": ""
+    },
+    {
+      "type": "INVALID_TYPE",
+      "id": "ABC013",
+      "timestamp": 1681765200,
+      "comments": "Invalid type"
+    },
+    {
+      "id": "ABC014",
+      "timestamp": 1681768800,
+      "comments": "Missing type"
+    },
+    {
+      "type": "START",
+      "timestamp": 1681772400,
+      "comments": "Missing id"
+    },
+    {
+      "type": "END",
+      "id": "ABC015",
+      "comments": "Missing timestamp"
+    },
+    {
+      "type": "START",
+      "id": "ABC016",
+      "timestamp": "Invalid_timestamp",
+      "comments": "Invalid timestamp"
+    }
+  ]
+  
